@@ -9,4 +9,6 @@ Data Science Projects
 - Trained a neural network model to predict win probability
 - Gained obtainable results to verify model's performance
 
+![](https://github.com/luke-as-11/Luke_Portfolio/blob/main/images/correlation_matrix.png)
+
 # Project 2: In Progress
