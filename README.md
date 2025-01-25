@@ -10,5 +10,6 @@ Data Science Projects
 - Gained obtainable results to verify model's performance
 
 ![](/images/correlation_matrix.png)
+![](/images/correlation_matrix_transparent.png)
 
 # Project 2: In Progress
