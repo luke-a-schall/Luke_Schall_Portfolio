@@ -9,6 +9,6 @@ Data Science Projects
 - Trained a neural network model to predict win probability
 - Gained obtainable results to verify model's performance
 
-![](/images/correlation_matrix_transparent.png)
+![](/images/correlation_matrix.png)
 
 # Project 2: In Progress
