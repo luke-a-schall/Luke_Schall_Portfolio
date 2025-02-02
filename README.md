@@ -1,7 +1,7 @@
 # Luke_Portfolio
 Data Science Projects
 
-# Project 1: March Madness Bracket Prediction
+# [Project 1: March Madness Bracket Prediction](https://github.com/luke-as-11/march_madness_bracket_prediction)
 - Created an adaptive function with machine learning to progressively predict the 2025 March Madness Bracket round by round
 - Collected ten years of data from ESPN's historical data records
 - Structured yearly data to simulate a 63 match tournament with each entry representing a match 
