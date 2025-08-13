@@ -13,4 +13,4 @@ Data Science Projects
 ![](/images/correlation_matrix.png)
 
 # [Project 2: Tree Coverage Analysis (In Progress)](https://github.com/luke-a-schall/tree_coverage_analysis)
-#### A project focusing on tuning binary classification models for satellite imagery to accurately calculate tree coverage.
+- Binary Classification Project utilizing GIS
