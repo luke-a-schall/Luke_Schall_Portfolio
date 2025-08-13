@@ -10,7 +10,7 @@ Data Science Projects
 - Gained obtainable results to verify model's performance where 73% of game outcomes were predicted correctly
 - Learned about the bias in the data and how to fine-tune neural network models
 
-![](/images/correlation_matrix.png)
+![](/assets/images/correlation_matrix.png)
 
 # [Project 2: Tree Coverage Analysis (In Progress)](https://github.com/luke-a-schall/tree_coverage_analysis)
 - Binary Classification Project utilizing GIS
