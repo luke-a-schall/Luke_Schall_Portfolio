@@ -1,4 +1,4 @@
-# Luke_Schall_Portfolio
+# Luke Schall Portfolio
 Data Science Projects
 
 # [Project 1: March Madness Bracket Prediction](https://github.com/luke-as-11/march_madness_bracket_prediction)
