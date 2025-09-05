@@ -14,6 +14,6 @@ Data Science Projects
 
 # [Project 2: Tree Coverage Analysis (In Progress)](https://github.com/luke-a-schall/tree_coverage_analysis)
 - Binary Classification Project utilizing GIS
-- Predict satellite imagery to be trees or not, using NRP color bands
+- Predict satellite imagery by using NRG color bands
 
 ![](/assets/images/st_louis_tree_coverage_map.png)
