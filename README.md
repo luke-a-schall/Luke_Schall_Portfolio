@@ -1,7 +1,7 @@
 # Luke Schall Portfolio
 Data Science Projects
 
-# [Project 1: March Madness Bracket Prediction](https://github.com/luke-as-11/march_madness_bracket_prediction)
+# [Project 1: March Madness Bracket Prediction](https://github.com/luke-a-schall/march_madness_bracket_prediction)
 - Designed an adaptive function utilizing machine learning to progressively predict the 2025 March Madness Bracket round by round
 - Collected ten years of team statistics from ESPN's historical data records
 - Structured yearly data to simulate a 63 match tournament with each entry representing a match 
@@ -12,8 +12,14 @@ Data Science Projects
 
 ![](/assets/images/correlation_matrix.png)
 
-# [Project 2: Tree Coverage Analysis (In Progress)](https://github.com/luke-a-schall/tree_coverage_analysis)
-- Binary Classification Project utilizing GIS
-- Predict satellite imagery by using NRG color bands
+# [Project 2: Tree Coverage Analysis](https://github.com/luke-a-schall/tree_coverage_analysis)
+- Utilized Google Earth Engine (GEE) API to access satellite imagery
+- Worked with different Coordinate Reference Systems (CRS) for map projections 
+- Used Topologically Integrated Geographic Encoding and Referencing (TIGER) for city boundaries
+- Manually classified sample satellite data for tree coverage
+- Leveraged NIR-Green-Red color bands for improved classification accuracy
+- Compared tree coverage calculation results with Google's Environmental Insights Explorer (EIE) data
+- Analyzed relationship between tree coverage and average household income
+- Learned about Geographic Information Systems (GIS) and real world impact
 
 ![](/assets/images/st_louis_tree_coverage_map.png)
